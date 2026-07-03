@@ -20,7 +20,6 @@ ProtectKernelTunables=yes
 PrivateDevices=yes
 ProtectSystem=full
 SystemCallFilter=~@reboot
-PrivateUsers=yes
 NoNewPrivileges=yes
 ProtectKernelLogs=yes
 ProtectControlGroups=yes
